@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới thiệu visual studio </title>
+</head>
+<body>
+    <header>
+        <h1>Tìm hiểu html</h1>
+        <p>Ngôn ngữ đánh dấu siêu văn bản.</p>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Giới thiệu chung</h2>
+            <p>HTML (HyperText Markup Language) là ngôn ngữ đánh dấu siêu văn bản được sử dụng để tạo và định dạng các trang web.</p>
+            <p>HTML giúp xác định cấu trúc và nội dung của các trang web. Nó không phải là ngôn ngữ lập trình, mà là một ngôn ngữ đánh dấu.</p>
+            <p>HTML được phát triển bởi Tim Berners-Lee vào năm 1990.</p>
+        </section> 
+
+        <section>
+            <h2>2. Hình ảnh minh hoạ</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/3840px-HTML5_logo_and_wordmark.svg.png?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="HTML5 Logo" width="200">
+            <p>Hình 1: Logo của HTML5</p>
+            
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/3840px-CSS3_logo_and_wordmark.svg.png?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="CSS3 Logo" width="200">
+        <p>Hình 2: Logo của CSS3</p>
+        </section>
+
+        <section>
+            <h2>3. Các đặc điểm nổi bật</h2>
+            <ul>
+                <li>Đơn giản và dễ học</li>
+                <li>Được hỗ trợ rộng rãi bởi các trình duyệt web</li>
+                <li>Cho phép tích hợp dễ dàng với CSS và JavaScript</li>
+                <li>Miễn phí, mở, không thuộc sở hữu của bất kỳ công ty nào</li>
+                <li>Hỗ trợ đa nền tảng, có thể chạy trên nhiều hệ điều hành khác nhau</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>4. Bảng thông tin chi tiết</h2>
+            <table border="1" cellpadding="10" cellspacing="0">
+                <tr>
+                    <th>Thông tin</th>
+                    <th>Chi tiết</th>
+                    <th>Ghi chú</th>
+                </tr>
+                <tr>
+                    <td>Người tạo ra</td>
+                    <td>Tim Berners-Lee</td>
+                    <td>Năm 1991</td>
+                </tr>
+                <tr>
+                    <td>Tổ chức quản lý</td>
+                    <td>W3C</td>
+                    <td>World Wide Web Consortium</td>
+                </tr>
+                <tr>
+                    <td>Phiên bản hiện tại</td>
+                    <td>HTML5</td>
+                    <td>Công bố chính thức năm 2014</td>
+                </tr>
+                <tr>
+                    <td>Phần mở rộng tệp</td>
+                    <td>.html</td>
+                    <td>Mở được bằng mọi trình duyệt web</td>
+                </tr>
+                <tr>
+                    <td>Loại ngôn ngữ</td>
+                    <td>Ngôn ngữ đánh dấu</td>
+                    <td>Không phải ngôn ngữ lập trình</td>
+                </tr>
+            </table>
+        </section>
+
+        <h3>Ưu điểm</h3>
+        <ul>
+            <li>Dễ học và sử dụng</li>
+            <li>Được hỗ trợ rộng rãi bởi các trình duyệt web</li>
+            <li>Cho phép tích hợp dễ dàng với CSS và JavaScript</li>
+            <li>Miễn phí, mở, không thuộc sở hữu của bất kỳ công ty nào</li>
+        </ul>
+
+        <h3>Hạn chế</h3>
+        <ul>        
+            <li>Không phải là ngôn ngữ lập trình, nên không thể thực hiện các tác vụ phức tạp</li>
+            <li>Phụ thuộc vào trình duyệt web để hiển thị nội dung</li>
+            <li>Cần kết hợp với CSS và JavaScript để tạo ra các trang web động và hấp dẫn</li>
+        </ul>
+
+        <section>
+            <h2>6. Liên kết tham khảo</h2>
+            <ul>
+                <li><a href="https://developer.mozilla.org/vi/docs/Web/HTML" target="_blank">Tài liệu HTML trên MDN Web Docs (Mozilla)</a></li>
+                <li><a href="https://www.w3.org/TR/html52/" target="_blank">Tiêu chuẩn HTML chính thức của W3C</a></li>
+                <li><a href="https://www.w3schools.com/html/" target="_blank">Hướng dẫn học HTML trên W3Schools</a></li>
+            </ul>          
+        </section>          
+        </main>
+
+        <footer>
+            <p>Bài tập vận dụng - Môn Lập trình web</p>
+            <p>Sinh viên thực hiện: Phạm Thanh Mai - MSV: B25DCCC136</p>
+        </footer>
+
+</body>
+</html>
